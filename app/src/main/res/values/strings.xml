@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WMS</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="New">New</string>
+    <string name="newDraw">newDraw</string>
+    <string name="save">save</string>
+    <string name="signature">SIGNATURE</string>
+</resources>

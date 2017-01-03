@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="newDraw" type="id">newDraw</item>
+    <item name="saveDraw" type="id">saveDraw</item>
+    <item name="Lienzo" type="id" />
+</resources>

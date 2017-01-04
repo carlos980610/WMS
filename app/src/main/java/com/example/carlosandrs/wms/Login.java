@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 public class Login extends AppCompatActivity {
 
-   // hola mundo
+
     private String user, password;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

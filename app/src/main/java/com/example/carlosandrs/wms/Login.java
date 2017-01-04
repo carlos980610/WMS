@@ -11,7 +11,9 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class Login extends AppCompatActivity {
-
+    
+    //jsjs
+    //gfgfgfgfgfgfgfgfgfgfgfgf
     private String user, password;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

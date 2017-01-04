@@ -53,7 +53,7 @@ public class Login extends AppCompatActivity {
                             .show();
                 }
             }
-        });
+        }); // Test 2
         final Button button_Problems = (Button) findViewById(R.id.btnProblems);
         button_Problems.setOnClickListener(new View.OnClickListener() {
             @Override
